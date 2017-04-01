@@ -1,2 +1,2 @@
 # tferrell-data-science
-For Data Schience related projects
+For Data Science related projects
